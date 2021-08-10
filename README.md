@@ -1,11 +1,11 @@
-#Estudos de Python
+# Estudos de Python
 
 Esse é um repositório criado para os estudos de Python
 
-##Cursos
+## Cursos
 
-##Curso em Vídeo de Python
+## Curso em Vídeo de Python
 
 
-##Udemy - Python do Zero ao Avançado
+## Udemy - Python do Zero ao Avançado
 
