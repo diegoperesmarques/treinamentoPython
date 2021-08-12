@@ -34,4 +34,6 @@ for posicao, valor in enumerate (quantidadeGols):
 
 print(f'Foi um total de {somaGols} gols')
 
+
+print('')
     
