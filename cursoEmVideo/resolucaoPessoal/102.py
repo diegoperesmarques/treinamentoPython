@@ -7,6 +7,8 @@ def fatorial(numero, show=False):
     """
     -> Função para calcular o fatorial de um número digitado
     :param numero: É o número que será calculado o fatorial
+    :param show: (optional) Mostrar ou não a conta.
+    :return: O valor do Fatorial de um número n.
     """
     resultado = 1
 
