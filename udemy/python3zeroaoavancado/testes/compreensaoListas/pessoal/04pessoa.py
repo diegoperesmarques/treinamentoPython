@@ -6,4 +6,4 @@ st = 'Print every word in this sentence that has an even number of letters'
 palavrasLista = st.split()
 for palavra in palavrasLista:
     if len(palavra) % 2 == 0:
-        print(palavra)
+        print(f'{palavra} - é par')
